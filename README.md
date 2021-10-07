@@ -49,19 +49,5 @@ This project is Java programming in NetBeans Environment with Language was devel
   
 <a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/12.png" target="_blank">
 <img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/12.png" width="200" style="max-width:100%;"></a>
-  
-<a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/13.png" target="_blank">
-<img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/13.png" width="200" style="max-width:100%;"></a>
-  
-<a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/14.png" target="_blank">
-<img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/14.png" width="200" style="max-width:100%;"></a>
-  
-<a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/15.png" target="_blank">
-<img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/15.png" width="200" style="max-width:100%;"></a>
-  
-<a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/16.png" target="_blank">
-<img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/16.png" width="200" style="max-width:100%;"></a>
- 
- <a href="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/17.png" target="_blank">
-<img src="https://github.com/aydnuzn/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/screenshot/17.png" width="200" style="max-width:100%;"></a>
+
 </p>
