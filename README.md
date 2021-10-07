@@ -2,7 +2,7 @@
 
 The Water Sales Automation application has been developed in order to provide a practical management of the Water Sales operations of a company that sells water.
 </br>
-This project was developed in NetBeans Environment, using Java programming language and SQLite was used as database.
+This project was developed in **NetBeans Environment**, using **Java** programming language and **SQLite** was used as database.
 
 ## Technologies
 | Technologies      |  |%|
