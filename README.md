@@ -1,6 +1,15 @@
 # Java Sql Desktop Application Water Sales
 
-App Description
+The Water Sales Automation application has been developed in order to provide a practical management of the Water Sales operations of a company that sells water.
+This project is Java programming in NetBeans Environment with Language was developed and SQLite was used as the database.
+
+## Technologies
+| Technologies      |  |%|
+|:---------:|:-----:|:----|
+| Java  | ➡️ | 90 |
+| JFrame     | ➡️ | 80 |
+| SQLite      | ➡️ | 70 |
+
 
 ## Application Images
 
