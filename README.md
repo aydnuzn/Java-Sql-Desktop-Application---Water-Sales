@@ -5,11 +5,9 @@ The Water Sales Automation application has been developed in order to provide a 
 This project was developed in **NetBeans** Environment, using **Java** programming language and **SQLite** was used as database.
 
 ## Technologies
-| Technologies      |  |%|
-|:---------:|:-----:|:----|
-| Java  | ➡️ | 90 |
-| JFrame     | ➡️ | 80 |
-| SQLite      | ➡️ | 70 |
+➡️ Java </br>
+➡️ JFrame </br>
+➡️ SQLite </br>
 
 
 ## Application Images
